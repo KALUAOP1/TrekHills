@@ -617,7 +617,7 @@ function openTextModal(type) {
       <h2>Contact Us</h2>
       <p>We're here to help you plan your next Himalayan adventure. Reach out to us via WhatsApp for the fastest response!</p>
       <div class="contact-details">
-        <p><strong>Address:</strong> ------</p>
+        <p><strong>Address:</strong> Sharma Chowk, Opposite Relaxo Showroom, Sonipat, Haryana 131001</p>
         <p><strong>Phone:</strong> <a href="tel:+917056135653" style="color: inherit; text-decoration: none;">+91 70561 35653</a></p>
         <p><strong>Email:</strong> info@shivohhamtrails.com</p>
       </div>
